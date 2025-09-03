@@ -1,0 +1,4 @@
+{
+  "chirpcPath": "/usr/bin/chirpc",
+  "imagesPath": "./mmap"
+}

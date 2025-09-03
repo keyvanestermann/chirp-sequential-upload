@@ -1,0 +1,16 @@
+{
+  "name": "chirp-sequential-upload",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keyvan ESTERMANN <keyvan@swift-dev.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.9.4",
+    "serialport": "^13.0.0"
+  }
+}
