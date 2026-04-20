@@ -30,9 +30,3 @@ From https://learn.microsoft.com/en-us/windows/wsl/connect-usb
 - Attach the device to WSL using : `usbipd attach --wsl --busid <busid>`
 - From WSL, run `lsusb` to confirm that the device is connected
 - To detach the device from WSL, simply unplug it or run `usbipd detach --busid <busid>`
-
-## Help me stay caffeinated
-
-If this helped you, consider buying me a coffee ! 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/keyvanestermann)
